@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/TBoyRoblox727/TBoyRobloxYT/refs/heads/main/TBoypro.txt')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Khangnguyenblh/Script-Complied/refs/heads/main/Script complete')))()
 
 local Window = OrionLib:MakeWindow({Name = "TBoy Roblox", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
